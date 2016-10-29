@@ -82,7 +82,7 @@ public class LevelComplete : MonoBehaviour {
 				GameStatus.score = 0;
 				GameStatus.lives = 3;
 				GameStatus.currentLevel = 1;
-				SceneManager.LoadScene ("Main_Menu");
+				SceneManager.LoadScene ("GameOver");
 			} 
 			else {
 				SceneManager.LoadScene ("Level" + GameStatus.currentLevel);
