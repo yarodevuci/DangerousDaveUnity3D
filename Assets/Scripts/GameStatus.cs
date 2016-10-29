@@ -5,7 +5,7 @@ using UnityEngine.SceneManagement;
 public class GameStatus : MonoBehaviour {
 
 	///Turn this off for PC/Mac Build
-	public static bool isDeployedToMobile = true;
+	public static bool isDeployedToMobile = false;
 
 	public static int score = 0;
 	public static int currentLevel = 1;
