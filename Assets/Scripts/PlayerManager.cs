@@ -102,7 +102,9 @@ public class PlayerManager : MonoBehaviour {
 		facingRight = true;
 		hasKey = false;
 		bottomExitText.SetActive(false);
-		JetFuelBar.SetActive (false);
+		if (GameStatus.currentLevel != 1) {
+			JetFuelBar.SetActive (false);
+		}
 
 		isPlayerFrozen = false;
 		needToZeroSpeed = false;
@@ -344,14 +346,14 @@ public class PlayerManager : MonoBehaviour {
 			Invoke("RestartCurrentLevel", 2f );
 		}
 		else {
-			StartCoroutine (ExitToMainMenu());			
+			StartCoroutine (GameOver());			
 		}
 	}
 		
 
-	IEnumerator ExitToMainMenu() {
+	IEnumerator GameOver() {
 		yield return new WaitForSeconds (2);
-		SceneManager.LoadScene ("Main_Menu");
+		SceneManager.LoadScene ("GameOver");
 	}
 
 	//Mobile UI Stuff

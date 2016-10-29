@@ -66,3 +66,20 @@
 /Users/Yaroslav/Desktop/Dangereous Dave/Temp/bin/Debug/Mono.Cecil.Mdb.dll
 /Users/Yaroslav/Desktop/Dangereous Dave/Temp/bin/Debug/Assembly-CSharp.dll.mdb
 /Users/Yaroslav/Desktop/Dangereous Dave/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Assembly-CSharp.dll.mdb
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Assembly-CSharp.dll
+/Users/Yaroslav/Desktop/DangerousDave/obj/Debug/Assembly-CSharp.dll
+/Users/Yaroslav/Desktop/DangerousDave/obj/Debug/Assembly-CSharp.dll.mdb
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/UnityEngine.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/UnityEditor.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Yaroslav/Desktop/DangerousDave/Temp/bin/Debug/Mono.Cecil.Mdb.dll
