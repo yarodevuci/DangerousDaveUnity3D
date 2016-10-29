@@ -9,6 +9,10 @@ Currently 4 Levels are made so far
 <img height="150" src="https://github.com/yarodevuci/DangerousDaveUnity3D/blob/master/screenshots/level3.png?raw=true" />
 <br>
 
+## How to use it
+Clone the project first. Download Unity3D if you haven't yet. Launch Unity3D and navigate to the project. 
+Finaly go to `File` -> `Build Settings` and build to any platform you like
+
 ## Mobile UI Support
 Inside folder `Scripts` look for file `GameStatus.cs`. 
 ```C#
