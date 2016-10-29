@@ -1,0 +1,815 @@
+fileFormatVersion: 2
+guid: 81ecce2da087045a6a96e546618b6ba8
+timeCreated: 1476161249
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: DaveTiles_0
+    21300002: DaveTiles_1
+    21300004: DaveTiles_2
+    21300006: DaveTiles_3
+    21300008: DaveTiles_4
+    21300010: DaveTiles_5
+    21300012: DaveTiles_6
+    21300014: DaveTiles_7
+    21300016: DaveTiles_8
+    21300018: DaveTiles_9
+    21300020: DaveTiles_10
+    21300022: DaveTiles_11
+    21300024: DaveTiles_12
+    21300026: DaveTiles_13
+    21300028: DaveTiles_14
+    21300030: DaveTiles_15
+    21300032: DaveTiles_16
+    21300034: DaveTiles_17
+    21300036: DaveTiles_18
+    21300038: DaveTiles_19
+    21300040: DaveTiles_20
+    21300042: DaveTiles_21
+    21300044: DaveTiles_22
+    21300046: DaveTiles_23
+    21300048: DaveTiles_24
+    21300050: DaveTiles_25
+    21300052: DaveTiles_26
+    21300054: DaveTiles_27
+    21300056: DaveTiles_28
+    21300058: DaveTiles_29
+    21300060: DaveTiles_30
+    21300062: DaveTiles_31
+    21300064: DaveTiles_32
+    21300066: DaveTiles_33
+    21300068: DaveTiles_34
+    21300070: DaveTiles_35
+    21300072: DaveTiles_36
+    21300074: DaveTiles_37
+    21300076: DaveTiles_38
+    21300078: DaveTiles_39
+    21300080: DaveTiles_40
+    21300082: DaveTiles_41
+    21300084: DaveTiles_42
+    21300086: DaveTiles_43
+    21300088: DaveTiles_44
+    21300090: DaveTiles_45
+    21300092: DaveTiles_46
+    21300094: DaveTiles_47
+    21300096: DaveTiles_48
+    21300098: DaveTiles_49
+    21300100: DaveTiles_50
+    21300102: DaveTiles_51
+    21300104: DaveTiles_52
+    21300106: DaveTiles_53
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: DaveTiles_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_1
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_2
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_3
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_4
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_5
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_6
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_7
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_8
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_9
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_10
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_11
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_13
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_14
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_15
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_16
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_17
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_18
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_19
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_20
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_21
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_22
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 49
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_23
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 49
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 2, w: 1}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_24
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 49
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_25
+      rect:
+        serializedVersion: 2
+        x: 1216
+        y: 49
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_26
+      rect:
+        serializedVersion: 2
+        x: 1257
+        y: 49
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 9, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_27
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_29
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_30
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_31
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_32
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_33
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_34
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_35
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_36
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_37
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_38
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_39
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_40
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_41
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_42
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_43
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_44
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_45
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_46
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_47
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_48
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_49
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 48.37037
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_50
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 0
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 1, y: 2, z: 2, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_51
+      rect:
+        serializedVersion: 2
+        x: 1168
+        y: 0
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_52
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 0
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 2, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: DaveTiles_53
+      rect:
+        serializedVersion: 2
+        x: 1258
+        y: 0
+        width: 48
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 5, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
